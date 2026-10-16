@@ -100,6 +100,8 @@ En una notebook con acelerador GPU, la secuencia recomendada es:
 
 Los notebooks incluidos funcionan como bitacora de la plataforma. Para reproducirlos, activa el acelerador **NVIDIA GPU** en Kaggle y ejecuta las celdas en orden.
 
+La ejecución local verificada está documentada en [`evidencia-local.md`](evidencia-local.md). Incluye la GPU, las versiones de CUDA y MSVC, los comandos de compilación y las salidas de ambos ejercicios.
+
 ## Requisitos
 
 - GPU NVIDIA con soporte CUDA para la ejecucion.
